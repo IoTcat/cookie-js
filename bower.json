@@ -1,0 +1,20 @@
+{
+  "name": "cookie-js2",
+  "description": "Cookie methods for front-end JavaScript",
+  "main": "dist/cookie-js.min.js",
+  "authors": [
+    "iotcat"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cookie"
+  ],
+  "homepage": "https://github.com/iotcat/cookie-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
