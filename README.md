@@ -5,7 +5,7 @@
 
 ### <法一>网页内调用
 ```html
-<script>https://cdn.yimian.xyz/cookie-js/cookie-js.min.js</script>
+<script src="https://cdn.yimian.xyz/cookie-js/cookie-js.min.js"></script>
 ```
 
 ### <法二>依赖包引入
