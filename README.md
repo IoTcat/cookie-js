@@ -22,9 +22,9 @@ bower i cookie-js2 --save
 
 
 ## 食用方法
-`cookie.set(key, val, days)`: 设置cookie, 键名key, 键值val, 保留时间days(可选，默认10年) 
-`cookie.get(key)`: 读取cookie, 根据键名key  
-`cookie.del(key)`: 删除cookie, 根据键名key  
+`cookie.set(key, val, days)`: 设置cookie, 键名key, 键值val, 保留时间days(可选，默认10年)   
+`cookie.get(key)`: 读取cookie, 根据键名key    
+`cookie.del(key)`: 删除cookie, 根据键名key    
 
 ## 示例
 ```js
