@@ -1,0 +1,22 @@
+{
+  "name": "cookie-js2",
+  "version": "1.0.0",
+  "description": "Cookie methods for front-end JavaScript",
+  "main": "dist/cookie-js.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotcat/cookie-js.git"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "author": "iotcat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iotcat/cookie-js/issues"
+  },
+  "homepage": "https://github.com/iotcat/cookie-js#readme"
+}
